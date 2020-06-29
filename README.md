@@ -5,5 +5,6 @@ Using services.
 ## Categories
 
 * [Programming activiy](./services/categories/programming_activity.md)
+* [Password managers](./services/categories/password_managers.md)
 * [Time trackers](./services/categories/time_trackers.md)
 * [Screenshots](./services/categories/screenshots.md)
