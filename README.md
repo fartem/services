@@ -8,3 +8,4 @@ Using services.
 * [Password managers](./services/categories/password_managers.md)
 * [Time trackers](./services/categories/time_trackers.md)
 * [Screenshots](./services/categories/screenshots.md)
+* [Streaming](./services/categories/streaming.md)
