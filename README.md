@@ -10,4 +10,5 @@ Using services.
 * [Screenshots](./services/categories/screenshots.md)
 * [Streaming](./services/categories/streaming.md)
 * [Podcasts](./services/categories/podcasts.md)
+* [Downloads](./services/categories/downloads.md)
 
