@@ -11,5 +11,3 @@ Using services.
 * [Time trackers](./services/categories/time_trackers.md)
 * [Screenshots](./services/categories/screenshots.md)
 * [Streaming](./services/categories/streaming.md)
-* [Podcasts](./services/categories/podcasts.md)
-
