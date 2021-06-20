@@ -1,4 +1,4 @@
-## Screenshots
+## Mockups
 
 | Service | Description | Site | Comment |
 | --- | --- | --- | --- |
